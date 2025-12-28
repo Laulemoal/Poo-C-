@@ -1,0 +1,15 @@
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\bin\Debug\net10.0\GymManagerLite.exe
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\bin\Debug\net10.0\GymManagerLite.deps.json
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\bin\Debug\net10.0\GymManagerLite.runtimeconfig.json
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\bin\Debug\net10.0\GymManagerLite.dll
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\bin\Debug\net10.0\GymManagerLite.pdb
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.sourcelink.json
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.dll
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\refint\GymManagerLite.dll
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.pdb
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\GymManagerLite.genruntimeconfig.cache
+C:\Users\lauta\OneDrive\Desktop\GymManagerLite\GymManagerLite\obj\Debug\net10.0\ref\GymManagerLite.dll
